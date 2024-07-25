@@ -1,0 +1,552 @@
+Topic: Market Efficiency
+
+1. Question: According to the efficient market hypothesis, what is the relationship between intrinsic value and market value when markets are considered efficient?
+
+Options:
+A) Inefficient markets may have a large difference between intrinsic value and market value.
+B) Efficient markets may have a small difference between intrinsic value and market value.
+C) Inefficient markets may have a small difference between intrinsic value and market value.
+D) Efficient markets may have a large difference between intrinsic value and market value.
+
+Correct Answer: B) Efficient markets may have a small difference between intrinsic value and market value.
+
+Justification: This question tests the candidate's understanding of market efficiency and the relationship between intrinsic value and market value in efficient markets. According to the efficient market hypothesis, when markets are efficient, the two values should be the same or very close. Therefore, option B is the correct answer as it reflects this concept. This aligns with the topic of market efficiency and its implications for fundamental analysis, technical analysis, and portfolio management.
+
+2. Question: According to the efficient market hypothesis, what is the relationship between market value and intrinsic value when markets are efficient? 
+Options: 
+A. They should be the same 
+B. They can diverge significantly 
+C. They are irrelevant 
+D. They are inversely related 
+
+Correct Answer: A. They should be the same 
+
+Justification: In the context of market efficiency, the efficient market hypothesis states that market prices fully reflect all available information. This means that the market value and intrinsic value of an asset should be the same or very close when markets are efficient. This is in contrast to the idea that markets can be irrational and that market value and intrinsic value can diverge significantly.
+
+3. Question: According to the efficient market hypothesis, which form of market efficiency suggests that asset prices reflect all publicly known and available information?
+Options:
+A. Strong form
+B. Semi-strong form
+C. Weak form
+D. Inefficient form
+Correct Answer: B. Semi-strong form
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This means that investors cannot consistently generate returns in excess of those expected for the level of risk of the investment by using publicly available information, such as financial statements and news reports. This aligns with the general conclusion of the efficient market hypothesis that it is not possible to beat the market on a consistent basis.
+
+4. Question: According to the efficient market hypothesis, which form of market efficiency reflects all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Adaptive form
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of market efficiency is based on the incorporation of all publicly known and available information into asset prices. This includes information from financial statements, news articles, and analyst reports. This form of efficiency would make it difficult for fundamental analysis to consistently outperform the market.
+
+5. Question: According to the efficient market hypothesis, which form of market efficiency suggests that asset prices are affected by both public and private information?
+Options: 
+A. Strong form
+B. Weak form
+C. Semi-strong form
+D. Intrinsic form
+
+Correct Answer: A. Strong form
+
+Justification: This question tests the candidate's understanding of the different forms of market efficiency. The strong form of market efficiency states that asset prices fully reflect all information, including both public and private information. This is in contrast to the weak and semi-strong forms, which only consider public and publicly available information, respectively.
+
+6. Question: Which form of efficient market hypothesis states that asset prices fully reflect all publicly known and available information?
+Options: 
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic form
+Correct Answer: B. Semi-strong form
+Justification: This form of efficient market hypothesis states that asset prices reflect all publicly known and available information. This is important for investment practitioners to understand as it has implications for fundamental analysis, technical analysis, and portfolio management.
+
+7. Question: According to the efficient market hypothesis, what is the relationship between market value and intrinsic value in an efficient market?
+Options:
+A. They are always equal.
+B. They can differ significantly.
+C. They are always close, but not exactly equal.
+D. They are unrelated.
+Correct Answer: A. They are always equal.
+Justification: This question tests the candidate's understanding of the relationship between market value and intrinsic value in an efficient market. According to the efficient market hypothesis, the two should be the same or very close. This is an important concept for investment practitioners to understand as it relates to market efficiency and the potential for generating excess returns.
+
+8. Question: Which of the following statements best describes the semi-strong form of market efficiency?
+
+Options:
+A) Asset prices fully reflect all publicly available information.
+B) Asset prices fully reflect all past price and trading volume information.
+C) Asset prices fully reflect all public and private information.
+D) Asset prices do not fully reflect any information.
+
+Correct Answer: A) Asset prices fully reflect all publicly available information.
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This means that all information that is available to the public is already incorporated into the asset prices, making it difficult for investors to consistently beat the market.
+
+9. Question: According to the efficient market hypothesis, what is the general conclusion regarding the ability to consistently beat the market? Options: A) It is possible to consistently beat the market by generating excess returns. B) It is not possible to consistently beat the market. C) It is only possible to beat the market with fundamental analysis. D) It is only possible to beat the market with technical analysis. Correct Answer: B Justification: The general conclusion drawn from the efficient market hypothesis is that it is not possible to beat the market on a consistent basis by generating returns in excess of those expected for the level of risk of the investment. This is due to the fact that markets are efficient and all relevant information is already reflected in asset prices.
+
+10. Question: What is the difference between market value and intrinsic value?
+Options:
+A. Market value is the price at which an asset can be bought or sold, while intrinsic value is the true value of an asset.
+B. Market value is the price at which an asset can be bought or sold, while intrinsic value is the estimated value of an asset.
+C. Market value is the estimated value of an asset, while intrinsic value is the true value of an asset.
+D. Market value is the estimated value of an asset, while intrinsic value is the price at which an asset can be bought or sold.
+
+Correct Answer: A. Market value is the price at which an asset can be bought or sold, while intrinsic value is the true value of an asset.
+
+Justification: This question tests the candidate's understanding of the difference between market value and intrinsic value, as well as their ability to apply this concept to the context of market efficiency. The correct option clearly explains the distinction between the two values, as stated in the reading. The other options either incorrectly define the values or misrepresent their relationship.
+
+11. Question: According to the efficient market hypothesis, which of the following statements is true regarding the relationship between intrinsic value and market value?
+Options: 
+A. In efficient markets, intrinsic value and market value will always be equal.
+B. Inefficient markets may exhibit a significant difference between intrinsic value and market value.
+C. In the semi-strong-form of market efficiency, market value may be higher than intrinsic value.
+D. Behavioral finance can help explain the difference between intrinsic value and market value in efficient markets.
+
+Correct Answer: A. In efficient markets, intrinsic value and market value will always be equal.
+
+Justification: In accordance with the efficient market hypothesis, when markets are efficient, the intrinsic value and market value of an asset should be the same or very close. This means that option A is the correct answer.
+
+12. Question: Which of the following statements is true regarding market efficiency and intrinsic value? 
+
+Options: 
+A. In a weak-form efficient market, asset prices reflect all publicly known information.
+B. In a semi-strong-form efficient market, asset prices reflect all past price and trading volume information.
+C. In a strong-form efficient market, asset prices reflect both public and private information.
+D. In a weak-form efficient market, the market value of an asset will always be higher than its intrinsic value.
+
+Correct Answer: C. In a strong-form efficient market, asset prices reflect both public and private information.
+
+Justification: This answer is correct because in a strong-form efficient market, asset prices fully reflect all information, including both public and private information, meaning that the market value will be equal to the intrinsic value. This aligns with the concept of market efficiency and the distinction between market value and intrinsic value discussed in the reading.
+
+13. Question: Which of the following statements is true regarding the efficient market hypothesis?
+
+Options:
+A. The intrinsic value of an asset is always equal to its market value.
+B. The efficiency of a market is not affected by the number of market participants.
+C. In the semi-strong form of market efficiency, asset prices reflect all publicly known and available information.
+D. Most empirical evidence supports the strong form of the efficient market hypothesis.
+
+Correct Answer: C. In the semi-strong form of market efficiency, asset prices reflect all publicly known and available information.
+
+Justification: This statement accurately reflects the definition of the semi-strong form of market efficiency, which states that asset prices reflect all publicly known and available information. This is important for investment practitioners to understand when making investment decisions.
+
+14. Question: Which of the following statements accurately describes the strong form of market efficiency?
+
+Options:
+A. Asset prices reflect all publicly known and available information
+B. Asset prices fully reflect all market data, including past price and trading volume information
+C. Asset prices fully reflect all information, including both public and private information
+D. Asset prices do not fully reflect any information, making it possible to consistently beat the market
+
+Correct Answer: C. Asset prices fully reflect all information, including both public and private information
+
+Justification: The strong form of market efficiency states that asset prices fully reflect all information, including both public and private information. This means that it is not possible to consistently beat the market by using any type of information. Therefore, option C is the correct answer.
+
+15. Question: According to the efficient market hypothesis, what is the relationship between intrinsic value and market value in an efficient market?
+Options:
+A. They are always equal
+B. They are usually close
+C. They may diverge significantly
+D. They have no correlation
+Correct Answer: C. They may diverge significantly
+Justification: The efficient market hypothesis states that in an efficient market, asset prices reflect all available information. This means that the market value should closely reflect the intrinsic value of an asset. However, when markets are not efficient, the two values can diverge significantly.
+
+16. Question: According to the efficient market hypothesis, what is the general conclusion regarding the ability to consistently beat the market by generating excess returns?
+
+Options:
+A. It is possible to consistently beat the market by generating excess returns
+B. It is not possible to consistently beat the market by generating excess returns
+C. It is only possible to beat the market by generating excess returns in the strong form of market efficiency
+D. It is only possible to beat the market by generating excess returns in the semi-strong form of market efficiency
+
+Correct Answer: B. It is not possible to consistently beat the market by generating excess returns
+
+Justification: This question tests the candidate's understanding of the efficient market hypothesis and its implications for generating excess returns. The correct answer, B, reflects the general conclusion drawn from the efficient market hypothesis that it is not possible to consistently beat the market by generating excess returns. This is supported by the theory and evidence presented in the reading.
+
+17. Question: According to the efficient market hypothesis, which of the following statements about market participants is true?
+
+Options: 
+A. The more market participants there are, the more efficient the market will be.
+B. Limited analyst coverage can lead to inefficiencies in the market.
+C. Information availability has no impact on a market's efficiency.
+D. Trading limits have a positive impact on a market's efficiency.
+
+Correct Answer: B. Limited analyst coverage can lead to inefficiencies in the market.
+
+Justification: This question tests the candidate's understanding of market efficiency and the factors that can affect it. Limited analyst coverage is one of the factors mentioned in the context as having an impact on a market's efficiency. The other options are either incorrect or not mentioned in the context.
+
+18. Question: According to the efficient market hypothesis, what is the relationship between market value and intrinsic value in an efficient market?
+Options:
+A) They are equal
+B) They are unrelated
+C) Market value is always higher than intrinsic value
+D) Intrinsic value is always higher than market value
+
+Correct Answer: A) They are equal
+
+Justification: In an efficient market, asset prices fully reflect all available information, including intrinsic value. Therefore, in an efficient market, market value should be equal to intrinsic value.
+
+19. Question: Which form of market efficiency suggests that asset prices fully reflect all publicly known and available information, including past price and trading data?
+
+Options:
+A. Strong form
+B. Semi-strong form
+C. Weak form
+D. Efficient form
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information, including past price and trading data. This form of efficiency has implications for fundamental analysis, technical analysis, and the choice between active and passive portfolio management.
+
+20. Question: Which form of efficient market hypothesis states that asset prices fully reflect all publicly known and available information?
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic value
+
+Correct Answer: B. Semi-strong form
+Justification: According to the efficient market hypothesis, the semi-strong form states that asset prices fully reflect all publicly known and available information. This means that any information that is publicly available is already incorporated into the asset prices, making it difficult for investors to consistently outperform the market. This is important for investment practitioners to understand when making investment decisions.
+
+21. Question: According to the efficient market hypothesis, why is it not possible to consistently beat the market through generating excess returns?
+
+Options: 
+A) The number of market participants and depth of analyst coverage affect market efficiency
+B) Asset prices in the strong form of market efficiency reflect all publicly known information 
+C) Intrinsic value and market value are always the same in an efficient market 
+D) Behavioral finance is the only explanation for market anomalies 
+
+Correct Answer: A) The number of market participants and depth of analyst coverage affect market efficiency 
+
+Justification: This answer reflects the idea that market efficiency is affected by external factors such as the number of participants and the amount of analysis, rather than solely being determined by public information or human behavior. This is in line with the key points discussed in the reading, specifically the factors that affect a market's efficiency and the different forms of market efficiency.
+
+22. Question: According to the efficient market hypothesis, which form of market efficiency states that asset prices fully reflect all publicly known and available information?
+Options:
+A. Strong form
+B. Semi-strong form
+C. Weak form
+D. Inefficient form
+
+Correct Answer: B. Semi-strong form
+
+Justification: This form of market efficiency states that all publicly available information is already reflected in asset prices, making it impossible to consistently beat the market. This aligns with the general conclusion of the efficient market hypothesis.
+
+23. Question: Which form of market efficiency is based on the idea that asset prices fully reflect all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic value
+
+Correct Answer: B. Semi-strong form
+
+Justification: This form of market efficiency states that asset prices reflect all publicly known and available information, making it the most relevant answer option. The other options do not accurately describe this specific form of market efficiency.
+
+24. Question: Which form of market efficiency reflects all publicly known and available information?
+Options: 
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. None of the above
+Correct Answer: B. Semi-strong form
+Justification: The semi-strong form of market efficiency states that asset prices fully reflect all publicly known and available information. This includes information such as financial statements, news and announcements, and analyst reports. This form of efficiency has implications for fundamental analysis, as it suggests that it is not possible to consistently beat the market by using this type of analysis.
+
+25. Question: Which form of market efficiency is based on all publicly known and available information?
+Options: 
+A) Weak form 
+B) Semi-strong form 
+C) Strong form 
+D) All of the above 
+Correct Answer: B) Semi-strong form 
+Justification: The semi-strong form of market efficiency is based on all publicly known and available information, making it the correct answer. This is in contrast to the weak form, which only considers past price and trading volume information, and the strong form, which includes both public and private information. This aligns with the context of the reading, which discusses the different forms of market efficiency and their implications for fundamental analysis, technical analysis, and portfolio management.
+
+26. Question: Which form of market efficiency suggests that asset prices reflect all publicly known and available information?
+
+Options: A) Weak form
+         B) Semi-strong form
+         C) Strong form
+         D) Intrinsic form
+
+Correct Answer: B) Semi-strong form
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This means that any publicly available information, such as news or financial reports, is already incorporated into the market price of the asset. This form of efficiency has implications for fundamental analysis and the choice between active and passive portfolio management.
+
+27. Question: According to the efficient market hypothesis, what is the relationship between market value and intrinsic value in a semi-strong-form efficient market?
+
+Options:
+A) They are always equal.
+B) They can diverge significantly.
+C) They are completely unrelated.
+D) They are only related in strong-form efficient markets.
+
+Correct Answer: B) They can diverge significantly.
+
+Justification: In semi-strong-form efficient markets, asset prices reflect all publicly known and available information. This means that market value and intrinsic value may not always be the same, leading to significant divergence between the two.
+
+28. Question: Which form of efficient market hypothesis states that asset prices fully reflect all publicly known and available information?
+
+Options:
+A) Weak form
+B) Semi-strong form
+C) Strong form
+D) Intrinsic value
+
+Correct Answer: B) Semi-strong form
+
+Justification: The semi-strong form of efficient market hypothesis states that asset prices reflect all publicly known and available information, including past price and trading volume data. This is distinct from the weak form which only considers past price and trading volume data, and the strong form which includes both public and private information. This question tests the candidate's understanding of the different forms of market efficiency and their implications for investment decisions.
+
+29. Question: Which form of efficient market hypothesis states that asset prices fully reflect all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic value
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of efficient market hypothesis states that asset prices reflect all publicly known and available information. This includes all past price and trading volume information, as well as all other publicly available information. This form of market efficiency has implications for fundamental analysis, technical analysis, and portfolio management, as stated in the context.
+
+30. Question: What is the difference between market value and intrinsic value?
+
+Options:
+A. Market value is the price at which an asset can be bought or sold, whereas intrinsic value is the true value of an asset.
+B. Market value is the true value of an asset, whereas intrinsic value is the price at which an asset can be bought or sold.
+C. Market value refers to all publicly known and available information, whereas intrinsic value refers to all past price and trading volume information.
+D. Market value reflects all information, including both public and private, whereas intrinsic value reflects only publicly available information.
+
+Correct Answer: A. Market value is the price at which an asset can be bought or sold, whereas intrinsic value is the true value of an asset.
+
+Justification: This question tests the candidate's understanding of the difference between market value and intrinsic value, two important concepts in market efficiency. The correct answer is option A, as it accurately describes the difference between the two values. This question also aligns with the learning outcomes of the context, as it requires the candidate to distinguish between market and intrinsic value and explain their importance to investment practitioners.
+
+31. Question: According to the efficient market hypothesis, which form of market efficiency suggests that asset prices reflect all publicly known and available information? 
+
+Options: 
+A. Weak form 
+B. Semi-strong form 
+C. Strong form 
+D. All of the above 
+
+Correct Answer: B. Semi-strong form 
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This includes information such as earnings reports, news articles, and analyst recommendations. This form of efficiency has implications for fundamental analysis, as it suggests that it is not possible to consistently outperform the market by using this type of information.
+
+32. Question: Which form of efficient market reflects all publicly known and available information and does not allow for consistently beating the market through fundamental or technical analysis?
+
+Options:
+A) Weak form
+B) Semi-strong form
+C) Strong form
+D) All three forms are equally efficient
+
+Correct Answer: B) Semi-strong form
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This means that fundamental and technical analysis cannot be used to consistently beat the market. This is supported by the statement in the context that "most empirical evidence supports the idea that securities markets in developed countries are semi-strong-form efficient."
+
+33. Question: Which of the following is NOT a factor that affects a market's efficiency?
+
+Options:
+A) Number of market participants
+B) Depth of analyst coverage
+C) Availability of information
+D) Market volatility
+
+Correct Answer: D) Market volatility
+
+Justification: Market volatility is not a factor that affects a market's efficiency, whereas the other options listed are all key factors that can impact market efficiency. This is based on the context of the efficient market hypothesis, which states that markets are efficient when they fully reflect all available information. Volatility, while it can impact market prices, is not directly related to the efficiency of the market.
+
+34. Question: According to the efficient market hypothesis, which form of market efficiency assumes that asset prices fully reflect all publicly known and available information?
+Options:
+A. Strong form
+B. Semi-strong form
+C. Weak form
+D. None of the above
+
+Correct Answer: B. Semi-strong form
+
+Justification: Semi-strong form market efficiency assumes that asset prices reflect all publicly known and available information, making it difficult to generate returns in excess of those expected for the level of risk. This is in contrast to the strong form, which includes both public and private information, and the weak form, which only considers past price and trading volume information.
+
+35. Question: According to the efficient market hypothesis, which form of market efficiency is based on all publicly known and available information?
+Options: 
+A) Weak form
+B) Semi-strong form
+C) Strong form
+D) Intrinsic value
+Correct Answer: B) Semi-strong form
+Justification: This form of market efficiency states that asset prices reflect all publicly available information. This is in contrast to the weak form, which only takes into account past price and trading volume information, and the strong form, which includes both public and private information.
+
+36. Question: What is the main conclusion drawn from the efficient market hypothesis?
+Options:
+A) It is possible to consistently generate returns in excess of those expected for the level of risk.
+B) Market participants and analyst coverage have little impact on market efficiency.
+C) Markets can be efficient even if market participants exhibit seemingly irrational behaviors.
+D) The two main forms of market efficiency are weak and strong.
+Correct Answer: C) Markets can be efficient even if market participants exhibit seemingly irrational behaviors.
+Justification: This option accurately summarizes the general conclusion drawn from the efficient market hypothesis, which is that markets can still be considered efficient even if market participants exhibit seemingly irrational behaviors. This is an important concept to understand in the context of market efficiency and behavioral finance.
+
+37. Question: According to the efficient market hypothesis, which form of market efficiency states that asset prices fully reflect all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic form
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of market efficiency states that asset prices fully reflect all publicly known and available information, including past price and trading volume information. This means that fundamental analysis and technical analysis would not be able to consistently generate returns in excess of those expected for the level of risk of the investment. This form of market efficiency is supported by most empirical evidence in developed countries.
+
+38. Question: Which form of market efficiency reflects all publicly known and available information?
+Options: 
+A) Weak form 
+B) Semi-strong form 
+C) Strong form 
+D) None of the above
+Correct Answer: B) Semi-strong form
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This includes all past price and trading volume information, as well as any other publicly available information. This form of efficiency has implications for fundamental analysis, technical analysis, and the choice between active and passive portfolio management.
+
+39. Question: Which form of market efficiency is based on the use of all publicly known and available information in determining asset prices?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic value
+
+Correct Answer: B. Semi-strong form
+
+Justification: This question tests the candidate's understanding of the different forms of market efficiency discussed in the context, specifically the semi-strong form which is based on all publicly known and available information.
+
+40. Question: Which form of market efficiency is based on all publicly known and available information?
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic form
+
+Correct Answer: B. Semi-strong form
+
+Justification: Semi-strong form market efficiency is based on all publicly known and available information, including past price and trading volume information. This means that all market participants have access to the same information and it is already reflected in asset prices.
+
+41. Question: Which form of market efficiency is characterized by asset prices fully reflecting all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic form
+
+Correct Answer: B. Semi-strong form
+
+Justification: This question tests the candidate's understanding of the different forms of market efficiency, specifically the one where asset prices reflect all publicly known and available information. This is important for investment practitioners as it has implications for fundamental analysis, technical analysis, and portfolio management.
+
+42. Question: Which form of market efficiency reflects all publicly known and available information?
+
+Options:
+A) Weak form
+B) Semi-strong form
+C) Strong form
+D) Intrinsic value
+
+Correct Answer: B) Semi-strong form
+
+Justification: The semi-strong form of market efficiency is defined as asset prices reflecting all publicly known and available information. This includes all information that is publicly available to investors, such as financial statements and news articles. This form of market efficiency has implications for fundamental analysis, as it suggests that it is not possible to consistently outperform the market by analyzing publicly available information.
+
+43. Question: Which form of efficient market hypothesis suggests that asset prices fully reflect all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic form
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of the efficient market hypothesis states that asset prices reflect all publicly known and available information. This includes factors such as company financial statements, news, and analyst reports. This form of market efficiency has implications for fundamental analysis and the choice between active and passive portfolio management.
+
+44. Question: Which form of efficient market hypothesis states that asset prices fully reflect all publicly known and available information?
+
+Options:
+A. Weak form
+B. Semi-strong form
+C. Strong form
+D. Intrinsic form
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of efficient market hypothesis states that asset prices reflect all publicly known and available information. This form considers information beyond just past prices and trading volume, as in the weak form, and also includes all publicly available information. This option also contrasts with the strong form, which includes both public and private information.
+
+45. Question: In the context of market efficiency, which of the following statements is true regarding the relationship between market value and intrinsic value?
+
+Options:
+A) In an efficient market, market value and intrinsic value are always equal.
+B) In an inefficient market, market value and intrinsic value can differ significantly.
+C) In a semi-strong-form efficient market, market value and intrinsic value are equal, but in a weak-form efficient market, they can differ.
+D) In a strong-form efficient market, market value and intrinsic value are equal, but in a semi-strong-form efficient market, they can differ.
+
+Correct Answer: B) In an inefficient market, market value and intrinsic value can differ significantly.
+
+Justification: This question tests the candidate's understanding of the relationship between market value and intrinsic value in the context of market efficiency. According to the efficient market hypothesis, market value and intrinsic value should be the same in an efficient market. However, when markets are not efficient, market value and intrinsic value can diverge significantly. This is an important concept for investment practitioners to understand, as it impacts their decisions regarding fundamental analysis, technical analysis, and portfolio management.
+
+46. Question: According to the efficient market hypothesis, what is the main implication for active portfolio management?
+Options:
+A) It is not possible to generate consistent returns above those expected for the level of risk.
+B) It is possible to beat the market by using technical analysis.
+C) Fundamental analysis is the most effective strategy for outperforming the market.
+D) Market participants should rely on private information to make investment decisions.
+
+Correct Answer: A) It is not possible to generate consistent returns above those expected for the level of risk.
+
+Justification: This question tests the candidate's understanding of the efficient market hypothesis and its implications for portfolio management. The correct answer is supported by the general conclusion of the efficient market hypothesis that it is not possible to consistently outperform the market by generating excess returns. This aligns with the key points mentioned in the reading, including the three forms of market efficiency and the importance of information availability and limits to trading. Options B and C are incorrect as they suggest that it is possible to beat the market through technical or fundamental analysis, which goes against the efficient market hypothesis. Option D is incorrect as it goes against the idea that markets are efficient when all information, including private information, is reflected in asset prices.
+
+47. Question: Which form of market efficiency is characterized by asset prices fully reflecting all publicly known and available information?
+
+Options:
+A) Weak form
+B) Semi-strong form
+C) Strong form
+D) None of the above
+
+Correct Answer: B) Semi-strong form
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This means that any new information that becomes public will be immediately reflected in the asset's price. This form of efficiency has implications for fundamental analysis, technical analysis, and portfolio management.
+
+48. Question: Which form of market efficiency suggests that asset prices fully reflect all publicly known and available information?
+Options:
+A. Strong form
+B. Semi-strong form
+C. Weak form
+D. Intrinsic value
+
+Correct Answer: B. Semi-strong form
+
+Justification: The semi-strong form of market efficiency states that asset prices reflect all publicly known and available information. This includes all past price and trading volume information, making it the most comprehensive form of market efficiency.
+
+49. Question: According to the efficient market hypothesis, what is the relationship between intrinsic value and market value in an efficient market?
+
+Options:
+A. In an efficient market, intrinsic value and market value are always equal.
+B. In an efficient market, intrinsic value is always higher than market value.
+C. In an efficient market, market value is always higher than intrinsic value.
+D. In an efficient market, intrinsic value and market value may or may not be equal.
+
+Correct Answer: A. In an efficient market, intrinsic value and market value are always equal.
+
+Justification: This question tests the candidate's understanding of intrinsic value and market value in relation to market efficiency. According to the efficient market hypothesis, in an efficient market, the price of an asset will always reflect its intrinsic value, making option A the correct answer. This aligns with the concept of market efficiency, which states that all available information is already reflected in the market price.
+
+50. Question: According to the efficient market hypothesis, which form of market efficiency suggests that asset prices fully reflect all publicly known and available information?
+
+Options: 
+A. Weak-form efficiency
+B. Semi-strong-form efficiency
+C. Strong-form efficiency
+D. Intrinsic-value efficiency
+
+Correct Answer: B. Semi-strong-form efficiency
+
+Justification: Semi-strong-form efficiency states that asset prices reflect all publicly known and available information, making it impossible for investors to consistently generate excess returns. This aligns with the general conclusion drawn from the efficient market hypothesis that it is not possible to beat the market on a consistent basis.
+
