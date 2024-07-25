@@ -1,6 +1,6 @@
 
 
-# Knowledge-Retrieval-QA-System for Finance Professional Development Resources
+## Knowledge-Retrieval-QA-System for Finance Professional Development Resources
 
 ## Project Goals
 Utilize Pinecone and OpenAI APIs to create knowledge summaries, generate a contextual knowledge base, utilize vector databases for question answering, and employ GPT-based summaries to provide accurate answers.
