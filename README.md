@@ -1,8 +1,6 @@
 
-## Assignment 5
 
-## Problem Statement:
-Development of a Structured Database and Text Extraction System for Finance Professional Development Resources
+# Knowledge-Retrieval-QA-System for Finance Professional Development Resources
 
 ## Project Goals
 Utilize Pinecone and OpenAI APIs to create knowledge summaries, generate a contextual knowledge base, utilize vector databases for question answering, and employ GPT-based summaries to provide accurate answers.
@@ -38,14 +36,6 @@ Utilize Pinecone and OpenAI APIs to create knowledge summaries, generate a conte
 ## Conclusion
 
 By completing these tasks, we aim to evaluate different approaches for knowledge retrieval and question answering using MaaS APIs, contributing valuable insights for enterprise applications.
-
-## Codelab
-
-[codelabs](https://codelabs-preview.appspot.com/?file_id=1fgubqz6h9BDCbEH1wdWYCjpfK3Iof7RCu2W_Kd6uOAY#3)
-
-[Demo Part1](https://www.youtube.com/watch?v=5RZNkLJtoBE)
- 
-[Demo Part2](https://www.youtube.com/watch?v=0n0S1EA3dPc)
 
 ## Technologies Used
 
@@ -161,13 +151,3 @@ By completing these tasks, we aim to evaluate different approaches for knowledge
 9. **Step4 LOS Answers** :  Upon clicking the "Generate Report" button, Generates a pie chart for each topic depicting the distribution of correct and incorrect answers.
     
 By following these steps, you should be able to run the application locally and interact with it using the provided Streamlit interface to upload PDF files, trigger data processing pipelines, and query Snowflake for results.
-
-
-
-## Team Information and Contribution 
-
-Name           | NUID          |
----------------|---------------|
-Anirudh Joshi  | 002991365     |      
-Nitant Jatale  | 002776669     |      
-Rutuja More    | 00272782      |      
